@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2017/6/5 21:38
-# @Author  : James wu
+# @Author  : James Wu
 # @File    : poem.py
 # @Software: PyCharm Community Edition
 
